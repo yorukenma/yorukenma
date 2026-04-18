@@ -7,8 +7,8 @@
 
 ![image alt](https://github.com/yorukenma/yorukenma/blob/38bedffc01558c0d20dc7848885aa882d7ffff69/Natural%20Harmonia%20Gropius)
 
-**Nov. 14 is N's birthday** !! (unofficial)
+***Nov. 14 is N's birthday*** !! (unofficial)
 
-  ``this purpose is to celebrate the character.``
+ ``this purpose is to celebrate the character.``
  
-  _November's initial is N, N is the 14th letter._
+    _November's initial is N, N is the 14th letter._

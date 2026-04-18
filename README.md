@@ -9,6 +9,6 @@
 
 **Nov. 14 is N's birthday** !! (unofficial)
 
- ``this purpose is to celebrate the character.``
+  ``this purpose is to celebrate the character.``
  
   _November's initial is N, N is the 14th letter._
